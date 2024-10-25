@@ -136,19 +136,6 @@ The system uses modern cloud technologies and AI:
   - FAISS for vector search
   - Vertex AI Embeddings
 
-## Future Roadmap
-
-### Planned Enhancements
-1. **Advanced Features**
-   - Multi-language support
-   - Industry-specific templates
-   - Advanced analytics
-
-2. **Integration Options**
-   - CRM systems
-   - Project management tools
-   - Document management systems
-
 ## Getting Started
 
 ### Quick Start Guide
